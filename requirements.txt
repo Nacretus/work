@@ -9,3 +9,4 @@ stopwordsiso>=0.6.1
 tqdm>=4.66.0
 python-multipart>=0.0.6
 matplotlib==3.7.1
+numpy>=1.0,<2.0
